@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![roadmap.sh](https://roadmap.sh/card/tall/682a0de4c0bc32867e3df9c4?variant=dark)](https://roadmap.sh)
 <!--
 **andrii-arkhipov/andrii-arkhipov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
